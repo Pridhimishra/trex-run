@@ -1,0 +1,8 @@
+if (keyDown("UP_ARROW")) {
+  Sophia.velocityX=0;
+  Sophia.velocityY=-4;
+  }
+if (gameState===0){
+    gameOver.visible=1;
+    
+  }
